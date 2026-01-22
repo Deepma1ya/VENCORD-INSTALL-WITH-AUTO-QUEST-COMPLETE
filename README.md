@@ -1,10 +1,6 @@
 # VENCORD-INSTALL-WITH-AUTO-QUEST-COMPLETE
 🚀 How to Use
 
-Download the required Node.js and Git offline installers
-
-Place them next to the .bat file
-
 Right-click → Run as Administrator
 
 If Node.js or Git installs during the process:
